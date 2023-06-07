@@ -1,6 +1,5 @@
 function Dialog({
   closeDialog = f => f,
-  openDialog = g => g
 }){
   return(
     <div className="dialog">

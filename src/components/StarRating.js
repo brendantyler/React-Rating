@@ -20,7 +20,6 @@ function StarRating(){
   return(
     <div className = 'starRating flexbox'>
       <div className="stars flexbox">
-
         {[...Array(5)].map((star, i) => {
           return(
             <Star
