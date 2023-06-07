@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-rating/static/css/main.1dc1c75e.css",
+    "main.js": "/react-rating/static/js/main.25409a50.js",
+    "index.html": "/react-rating/index.html",
+    "main.1dc1c75e.css.map": "/react-rating/static/css/main.1dc1c75e.css.map",
+    "main.25409a50.js.map": "/react-rating/static/js/main.25409a50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dc1c75e.css",
+    "static/js/main.25409a50.js"
+  ]
+}
